@@ -7,21 +7,34 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde-fi
-tagline:          'Suomenkielinen käännös Jekyll-teemasta'
-description:      'Suomenkielinen käännös <a href="http://jekyllrb.com" target="_blank">Jekyll</a>-teemasta.'
-url:              http://hyde.getpoole.com
-baseurl:          ''
+title:            Lähipeluu
+tagline:          'Lähipeluu: luentoja digitaalisista peleistä'
+description:      'Lähipeluu: luentoja digitaalisista peleistä'
+url:              https://github.com/gitkrax/lahipeluu
+baseurl:          '/lahipeluu'
 
 author:
-  name:           'Jonne Arjoranta'
-  url:            https://twitter.com/jaranta
+  name:           ''
+  url:            
 
 paginate:         5
 
+collections:
+  2015:
+    output: true
+    permalink: /2015/:path/
+    
+defaults:
+  -
+    scope:
+      path: ""
+      type: "2015" # a collection in your site, in plural form
+    values:
+      layout: "page"
+
 # Custom vars
-sidebar_image:
-version:          1.0.0
+sidebar_image: img/cover.jpg
+version:          
 
 github:
-  repo:           https://github.com/gitkrax/hyde-fi
+  repo:           
