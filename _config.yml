@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Lähipeluu
 tagline:          'Lähipeluu: luentoja digitaalisista peleistä'
 description:      'Lähipeluu: luentoja digitaalisista peleistä'
-url:              https://github.com/gitkrax/lahipeluu
+url:              https://gitkrax.github.io/lahipeluu
 baseurl:          '/lahipeluu'
 
 author:
