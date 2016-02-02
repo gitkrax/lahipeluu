@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -15,26 +15,31 @@ baseurl:          '/lahipeluu'
 
 author:
   name:           ''
-  url:            
+  url:
 
 paginate:         5
 
 collections:
-  2015:
+  "lahipeluu-2015":
     output: true
-    permalink: /2015/:path/
-    
+    permalink: /lahipeluu-2015/:path/
+
 defaults:
   -
     scope:
       path: ""
-      type: "2015" # a collection in your site, in plural form
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "lahipeluu-2015" # a collection in your site, in plural form
     values:
       layout: "page"
 
 # Custom vars
-sidebar_image: img/cover.jpg
-version:          
+sidebar_image:
+version:
 
 github:
-  repo:           
+  repo:

@@ -1,16 +1,11 @@
 ---
-title: "Pelintekijä ja pelaaja historiankirjoittajina *Civilization*-pelisarjassa"
+title: "Pelintekijä ja pelaaja historiankirjoittajina Civilization-pelisarjassa"
 author: Jaro Karkinen
 contributor: Jonne Arjoranta
 date: 2015
 copyright: |
-    © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos.
-
-    Tätä teosta koskee [Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen-lisenssi](https://creativecommons.org/licenses/by-nc-nd/4.0/.
-
-    Kansikuva: [Jukka Korhonen](http://fav.me/d56ivtn)
+  © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos. Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen -lisenssillä</a>. <br />
 ---
-\ 
 
 Sana ”historiankirjoittaja” saattaa tuoda ensimmäisenä mieleen
 kreikkalaiseen patsaaseen ikuistetun parrakkaan miehen taikka

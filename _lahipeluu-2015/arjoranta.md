@@ -3,13 +3,8 @@ title: Johdanto
 author: Jonne Arjoranta
 date: 2015-11-02
 copyright: |
-    © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos.
-
-    Tätä teosta koskee [Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen-lisenssi](https://creativecommons.org/licenses/by-nc-nd/4.0/.
-
-    Kansikuva: [Jukka Korhonen](http://fav.me/d56ivtn)
+  © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos. Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen -lisenssillä</a>. <br />
 ---
-\ 
 
 Mitä pelit kertovat meille maailmasta? Vastaus tähän kysymykseen ei selviä vain pohtimalla, vaan ennen pitkää nojatuolifilosofin on käännettävä nojatuolinsa kohti näyttöä ja otettava selvää. Pelit ovat täynnä maailmoja, jotka ovat joko muunnelmia omastamme tai jollain tapaa sen peilikuvia. Niistä löytyy tuhansia erilaisia hahmoja, paikkoja ja esineitä. Mitä pelit siis kertovat meille maailmasta? Wittgensteinia mukaillen voisi sanoa, että älä oleta vaan katso. Vastaus selviää pelejä tarkemmin tarkastelemalla.
 
@@ -28,8 +23,6 @@ Kokoelma esittää erilaisia *lähipeluita* digitaalisista peleistä. Ajatus on 
 **Milla Pystynen** seuraa *Vampire: The Masquerade -- Bloodlinesin* kasvutarinaa ja lukee sitä Julia Kristevan yksilön kehitystä kuvaavan teorian läpi. *Bloodlinesin* tarina kuvaa juuri vampyyrien yhteiskuntaan saapunutta uutta yksilöä, joka joutuu -- lapsen tavoin -- itsenäistymään ja määrittelemään itsensä suhteessa sekä äitiinsä että isäänsä.
 
 Vielä viimeinen varoitus: *spoilereita luvassa*.
-
-\ 
 
 *Jonne Arjoranta*
 

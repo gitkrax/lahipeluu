@@ -4,13 +4,8 @@ author: Katariina Pesonen
 contributor: Jonne Arjoranta
 date: 2015
 copyright: |
-    © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos.
-
-    Tätä teosta koskee [Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen-lisenssi](https://creativecommons.org/licenses/by-nc-nd/4.0/.
-
-    Kansikuva: [Jukka Korhonen](http://fav.me/d56ivtn)
+  © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos. Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen -lisenssillä</a>. <br />
 ---
-\ 
 
 Kun ensimmäisen kerran pelasin videopeliä *The Vanishing of Ethan
 Carter* (The Astronauts, 2014), minut valtasi moneen kertaan
@@ -29,7 +24,7 @@ on peli, jossa kylästä löytyvät perheenjäsenten ruumiit, esineet,
 lehtileikkeet ja Ethanin kirjoittamat tarinat punoutuvat mysteeriksi,
 joka pelaajan on ratkaistava.
 
-![Avaruusalus ilmestyy maan sisältä pelissä The Vanishing of Ethan Carter (Astronauts, 2014)](img/pesonen1.jpg)
+![Avaruusalus ilmestyy maan sisältä pelissä The Vanishing of Ethan Carter (Astronauts, 2014)]({{site.baseurl}}/2015/img/pesonen1.jpg)
 
 Omalla kohdallani hämmästyksen tunne ei kuitenkaan syntynyt siitä, että
 etsivä Prosperolla on yliluonnollisia kykyjä, joiden avulla hän ratkoo
@@ -60,7 +55,7 @@ maailma on kuitenkin nyt muuttunut: avaruusaluksen sijaan aukiolla on
 puista ja laudoista rakennettu maja, jonka lattialla on scifi-lehti ja
 äsken luettu *Fangs*-tarina (Kuva 2).
 
-![Avaruuslennon jälkeen aukealla on avaruusalusta muistuttava maja (Astronauts, 2014)](img/pesonen2.jpg)
+![Avaruuslennon jälkeen aukealla on avaruusalusta muistuttava maja (Astronauts, 2014)]({{site.baseurl}}/2015/img/pesonen2.jpg)
 
 Edellä kuvatussa jaksossa pelaaja kohtaa monta asiaa, jotka voivat
 tuntua oudoilta ja hämmentäviltä: liikennevaloja muistuttava tolppa
@@ -141,7 +136,7 @@ järjellistää kohtaamansa oudot asiat ymmärrettäviksi ja
 merkityksellisiksi. Voiko yhtä hyvin olla, ettei lukija haluakaan
 selittää kaikkea, vaan tyytyy ottamaan vastaan sellaisenaan oudon,
 kummallisen ja vieraannuttavan ilman sen kummempaa
-tulkintaa?[^pesonen.md1] Alberin lukemisen strategiat soveltuvat *The
+tulkintaa?[^1] Alberin lukemisen strategiat soveltuvat *The
 Vanishing of Ethan Carterin* kohdalla sen spekulointiin, mitä pelaaja
 mahdollisesti ajattelee kohdatessaan pelissä kummallisia asioita. On
 kuitenkin otettava huomioon, että jokainen pelaaja tekee tulkintoja
@@ -376,7 +371,7 @@ hallusinaationa ennen kuin niille löytyy uskottavampi selitys.
 Erityisesti *noidan metsä* -kohta vaikuttaa hallusinaatiolta, sillä
 siinä pelaajahahmo Prospero vaikuttaa kuulevan ääniä: kaikuva naisen
 ääni esittää kysymyksiä kuten ”Do you feel victory when your words cause
-pain?” ja ”Does death bring peace or suffering?”[^pesonen.md2] Näiden
+pain?” ja ”Does death bring peace or suffering?”[^2] Näiden
 epäluonnollisten jaksojen lukeminen Prosperon sisäisinä asiantiloina
 kuten hallusinaatioina ei tunnu kuitenkaan kovin uskottavalta siksi,
 että jokaisen jakson lopusta löytyy Ethanin kirjoittama tarina. Miksi se
@@ -560,7 +555,7 @@ Kuolinhetkellään Ethan uneksii paikalle suunnittelemansa jännitystarinan
 hahmon etsivä Prosperon, joka tulisi pelastamaan hänet. Unimaailmassa
 toistuu motiivina kuoleman symboli korppi esimerkiksi kirkon kryptan
 koristeissa, Chadin murhan aikaan lentämässä taivaalla ja kellarin
-salaoven salasanassa corvus[^pesonen.md3]. Myös Prosperon hahmo sisältää
+salaoven salasanassa corvus[^3]. Myös Prosperon hahmo sisältää
 kuolemaan liittyvää symboliikkaa: hän saapuu kylään junatunnelia pitkin
 kulkien pimeydestä kohti valoa ja toteaa yhdessä monologeistaan, että
 tämä tapaus olisi hänen viimeisensä, viitaten kyseessä olevan myös
@@ -650,12 +645,12 @@ Thatgamecompany (2012). *Journey*. Japani: Sony Computer Entertainment.
 
 The Astronauts (2014). *The Vanishing of Ethan Carter*. Puola: The Astronauts.
 
-[^pesonen.md1]: Jan Alberin lukemisen strategioiden kritiikistä ks. mm.
+[^1]: Jan Alberin lukemisen strategioiden kritiikistä ks. mm.
     Mäkelä (2013) ja Nielsen (2013).
 
-[^pesonen.md2]: Kysymykset, jotka kuullaan pelin tässä kohdassa,
+[^2]: Kysymykset, jotka kuullaan pelin tässä kohdassa,
     vaihtelevat pelikerrasta toiseen. Peli ilmeisesti valitsee repliikit
     ennalta muodostetusta listasta satunnaisesti.
 
-[^pesonen.md3]: Corvus on latinaa ja viittaa varisten lintusukuun.
+[^3]: Corvus on latinaa ja viittaa varisten lintusukuun.
     Mustan korpin latinankielinen nimi on corvus corax.

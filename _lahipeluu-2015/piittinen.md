@@ -1,16 +1,11 @@
 ---
-title: "Jälkiä Suurta Sotaa edeltävästä maailmankuvasta *Fallout 3* -pelissä"
+title: "Jälkiä Suurta Sotaa edeltävästä maailmankuvasta Fallout 3 -pelissä"
 author: Sari Piittinen
 contributor: Jonne Arjoranta
 date: 2015
 copyright: |
-    © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos.
-
-    Tätä teosta koskee [Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen-lisenssi](https://creativecommons.org/licenses/by-nc-nd/4.0/.
-
-    Kansikuva: [Jukka Korhonen](http://fav.me/d56ivtn)
+  © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos. Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen -lisenssillä</a>. <br />
 ---
-\ 
 
 *Fallout 3* (Bethesda Game Studios, 2008) sijoittuu maailmantuhon
 jälkeiseen Yhdysvaltojen itärannikkoon, jonka raunioista löytyy rippeitä
@@ -163,7 +158,7 @@ turvaholveihin. Viestit tarjoavat vastauksen kysymykseen siitä, mitä
 kansalaisille saattoi tapahtua sen jälkeen, kun hakemus oli lähetetty,
 ja yhdistyvät laajemmin pelimaailman rakentamaan tarinaan.
 
-![Osittain tuhoutunut Vault-Tecin mainostaulu](img/piittinen1.jpg)
+![Osittain tuhoutunut Vault-Tecin mainostaulu]({{site.baseurl}}/2015/img/piittinen1.jpg)
 
 Yksi mieleenpainuvimmista Vault-Tecin mainoksista kuvaa ihmisjoukkoa
 jonottamassa turvaholviin. Holvin ovesta kajastaa valo, ja ihmiset
@@ -292,7 +287,7 @@ Yhdysvalloissa todellisuudessakin 1940-luvulla, mitä pelisuunnittelijat
 ovat käyttäneet hyväksi julisteiden laatimisessa. Ne seuraavat pitkälti
 samoja konventioita kuin todelliset propagandajulisteet.
 
-![Sotilas voimapanssarissa auttamassa ylös Setä Samulia](img/piittinen2.jpg)
+![Sotilas voimapanssarissa auttamassa ylös Setä Samulia]({{site.baseurl}}/2015/img/piittinen2.jpg)
 
 Tosimaailman amerikkalaisista julisteista tuttu Setä Samuli on myös
 *Fallout 3*:n julisteissa mukana. Perinteisen sotilaan sijasta Setä
@@ -373,7 +368,7 @@ robotit ja kodinkoneet toimivat ydinvoimalla. Yksi merkittävimmistä
 esimerkeistä ydinvoiman arkisuudesta on kuitenkin *Fallout 3*-maailman
 suosituin virvoitusjuoma, Nuka-Cola.
 
-![Hymyilevä nainen Nuka-tauolla](img/piittinen3.jpg)
+![Hymyilevä nainen Nuka-tauolla]({{site.baseurl}}/2015/img/piittinen3.jpg)
 
 Ajatus ydinvoimasta ennen Suurta Sotaa oli niin myönteinen ja arkinen
 amerikkalaisille, että he mieluusti joivat eniten virvoitusjuomaa, joka
