@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,12 +9,11 @@ permalink:        pretty
 title:            Lähipeluu
 tagline:          'Lähipeluu: luentoja digitaalisista peleistä'
 description:      'Lähipeluu: luentoja digitaalisista peleistä'
-url:              https://gitkrax.github.io/lahipeluu
+url:              https://github.com/gitkrax/lahipeluu
 baseurl:          '/lahipeluu'
 
 author:
   name:           ''
-  url:
 
 paginate:         5
 
@@ -38,7 +37,3 @@ defaults:
 
 # Custom vars
 sidebar_image:
-version:
-
-github:
-  repo:
