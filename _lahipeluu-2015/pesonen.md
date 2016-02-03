@@ -23,7 +23,7 @@ on peli, jossa kylästä löytyvät perheenjäsenten ruumiit, esineet,
 lehtileikkeet ja Ethanin kirjoittamat tarinat punoutuvat mysteeriksi,
 joka pelaajan on ratkaistava.
 
-![Avaruusalus ilmestyy maan sisältä pelissä The Vanishing of Ethan Carter (Astronauts, 2014)]({{site.baseurl}}/2015/img/pesonen1.jpg)
+![Avaruusalus ilmestyy maan sisältä pelissä The Vanishing of Ethan Carter (Astronauts, 2014)]({{site.baseurl}}/lahipeluu-2015/img/pesonen1.jpg)
 
 Omalla kohdallani hämmästyksen tunne ei kuitenkaan syntynyt siitä, että
 etsivä Prosperolla on yliluonnollisia kykyjä, joiden avulla hän ratkoo
@@ -54,7 +54,7 @@ maailma on kuitenkin nyt muuttunut: avaruusaluksen sijaan aukiolla on
 puista ja laudoista rakennettu maja, jonka lattialla on scifi-lehti ja
 äsken luettu *Fangs*-tarina (Kuva 2).
 
-![Avaruuslennon jälkeen aukealla on avaruusalusta muistuttava maja (Astronauts, 2014)]({{site.baseurl}}/2015/img/pesonen2.jpg)
+![Avaruuslennon jälkeen aukealla on avaruusalusta muistuttava maja (Astronauts, 2014)]({{site.baseurl}}/lahipeluu-2015/img/pesonen2.jpg)
 
 Edellä kuvatussa jaksossa pelaaja kohtaa monta asiaa, jotka voivat
 tuntua oudoilta ja hämmentäviltä: liikennevaloja muistuttava tolppa
