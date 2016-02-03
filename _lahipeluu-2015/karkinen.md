@@ -2,7 +2,6 @@
 title: "Pelintekijä ja pelaaja historiankirjoittajina Civilization-pelisarjassa"
 author: Jaro Karkinen
 contributor: Jonne Arjoranta
-date: 2015
 copyright: |
   © Tekstien kirjoittajat & Jyväskylän yliopisto, Taiteiden ja kulttuurin tutkimuksen laitos. Tämä teos on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen -lisenssillä</a>. <br />
 ---

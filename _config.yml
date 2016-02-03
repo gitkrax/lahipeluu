@@ -2,6 +2,9 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# Gems
+gems: [jekyll-paginate]
+
 # Permalinks
 permalink:        pretty
 
@@ -16,6 +19,7 @@ author:
   name:           ''
 
 paginate:         5
+paginate_path: "/sivu:num/"
 
 collections:
   "lahipeluu-2015":
